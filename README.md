@@ -1,7 +1,7 @@
 # Deiverson Sousa 
 **`FullStack Developer`** 
 
-Hi, I'am Deiverson, i'm 24 yers old and I'm from do Goiânia/BR. I am currently studying Systems Analysis and Development at SENAC College. I'm passionate about technology, I started programming when I was 14 years old, my first project was an online game server, through GTA San Andreas Multiplayer, it's even available in my git repository, I took a break for a while and I'm returning now in 2025 learning new programming languages.
+Hi, I'am Deiverson, i'm 25 yers old and I'm from do Goiânia/BR. I am currently studying Systems Analysis and Development at SENAC College. I'm passionate about technology, I started programming when I was 14 years old, my first project was an online game server, through GTA San Andreas Multiplayer, it's even available in my git repository, I took a break for a while and I'm returning now in 2025 learning new programming languages.
 
 ---
 
