@@ -5,7 +5,7 @@ Hi, I'am Deiverson, i'm 25 yers old and I'm from do Goiânia/BR. I am currently 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and technologies
 
 <img 
     align="left" 
